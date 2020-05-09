@@ -1,0 +1,25 @@
+h1
+{
+	color: red;
+	text-align: center;
+}
+
+.rond{
+	width:200px;
+	height:200px;
+	background:#069;
+	-webkit-border-radius:100px;
+	-moz-border-radius:100px;
+	-o-border-radius:100px;
+	border-radius:100px;
+	text-align: center;
+	background-color: blue;
+}
+body
+{
+	background-image:url(https://img.freepik.com/vecteurs-libre/abstrait-grunge-jaune-vif_1055-8116.jpg?size=626&ext=jpg);
+}
+h2
+{
+	text-align: center;
+}
